@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Data Master Ruangan')
+@section('title', 'Scheduly')
 
 @section('content')
 <style>
